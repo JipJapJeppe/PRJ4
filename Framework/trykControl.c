@@ -9,6 +9,6 @@
  *
  * ========================================
 */
-#include "trykControl.c"
+#include "trykControl.h"
 
 /* [] END OF FILE */
